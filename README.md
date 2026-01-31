@@ -1,2 +1,3 @@
-# CampusEnergy-AI
-CampusEnergy AI is a real-time HVAC monitoring and optimization platform that simulates IoT sensor data, visualizes live campus conditions, and uses LLaMA-based analytics to detect anomalies and generate energy-saving recommendations.
+# CampusEnergy AI
+CampusEnergy AI is an end-to-end, campus-scale HVAC intelligence platform designed to improve energy efficiency, maintenance response, and operational visibility. The system simulates real-time IoT temperature and occupancy data using Python, streams it to a PHP/MySQL backend, and presents live, no-refresh dashboards built with Bootstrap for monitoring conditions across 75+ rooms.
+The platform incorporates a LLaMA-based analytics pipeline that processes historical HVAC and occupancy data to detect anomalies, automate scheduling, and generate actionable maintenance and energy-optimization recommendations. By reducing issue detection latency from days to minutes, CampusEnergy AI demonstrates how AI-driven monitoring can enhance sustainability, streamline maintenance workflows, and optimize building operations.
